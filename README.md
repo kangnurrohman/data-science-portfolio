@@ -1,3 +1,8 @@
 # Sentiment Analysis Projects
-Some sentiment analysis experiments
- 
+
+This repository contains experiments on sentiment analysis and will always be updated, along with the experiments that have been carried out:
+
+| **No** | **Experiment** | **Language** | **Tools** | **Open** |
+| --- | --- | --- | --- | --- |
+| 1   | [Polarity determination with three algorithms (Naive Bayes, SVM, Random Forest)](https://github.com/kangnurrohman/sentiment-analysis-projects/blob/4fb3312a44b0056b3f40708ae7f372f9edc431ab/src/polarity-determination-3-algorithm-nb-rf-svm.ipynb) | Python | Scikit-learn |  <a href="https://colab.research.google.com/github/kangnurrohman/sentiment-analysis-projects/blob/main/src/polarity-determination-3-algorithm-nb-rf-svm.ipynb" target="_blank" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> <a href="https://www.kaggle.com/code/kangnurrohman/polarity-determination-3-algorithm-nb-rf-svm?scriptVersionId=112064333" target="_blank" rel="nofollow"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>   |
+| 2   | [Polarity determination with LSTM](https://github.com/kangnurrohman/sentiment-analysis-projects/blob/4fb3312a44b0056b3f40708ae7f372f9edc431ab/src/polarity-determination-with-lstm.ipynb) | Python | Keras |  <a href="https://colab.research.google.com/github/kangnurrohman/sentiment-analysis-projects/blob/main/src/polarity-determination-with-lstm.ipynb" target="_blank" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> <a href="https://www.kaggle.com/code/kangnurrohman/polarity-determination-with-lstm?scriptVersionId=112064672" target="_blank" rel="nofollow"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>   |
