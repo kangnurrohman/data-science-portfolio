@@ -1,6 +1,6 @@
 # Sentiment Analysis Projects
 
-This repository contains experiments on sentiment analysis and will always be updated, along with the experiments that have been carried out:
+This repository contains experiments on sentiment analysis and will always be updated. The following experiments have been carried out:
 
 | **No** | **Experiment** | **Language** | **Tools** | **Open** |
 | --- | --- | --- | --- | --- |
