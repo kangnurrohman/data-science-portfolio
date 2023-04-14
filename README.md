@@ -9,7 +9,7 @@ This repository contains data science projects that I have worked on in academic
   
       -
 
-      _Tools:
+      _Tools:_
 - ### Data Analytics
   
    - __Python__
