@@ -6,5 +6,10 @@ This repository contains data science projects that I have worked on in academic
 
 - ### Natural Language Processing
    - __Python__
+  
+      -
+
+      _Tools:
 - ### Data Analytics
+  
    - __Python__
