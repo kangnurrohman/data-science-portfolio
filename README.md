@@ -7,9 +7,10 @@ This repository contains data science projects that I have worked on in academic
 - ### Natural Language Processing
    - __Python__
   
-      -
+      - [Forecasting using Linear Regression on House Price](https://github.com/kangnurrohman/data-science-portfolio/blob/63ce0ebd9e17af3ed714a9a862bb8de53d24b49f/Data%20Analytics/forecasting-using-linear-regression-on-house-price.ipynb)
 
    _Tools:_
+
 - ### Data Analytics
   
    - __Python__
