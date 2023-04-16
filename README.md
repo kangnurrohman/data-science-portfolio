@@ -7,9 +7,17 @@ This repository contains data science projects that I have worked on in academic
 - ### Natural Language Processing
    - __Python__
   
-      - [Sentiment Analysis using BERT on Commodity Nwws](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-bert-on-commodity-news.ipynb): An experiment to explore the use of sentiment analysis using BERT on news articles related to the commodity gold market.
+      - [Sentiment Analysis using BERT on Commodity News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-bert-on-commodity-news.ipynb): An experiment to explore the use of sentiment analysis using BERT on news articles related to the commodity gold market.
 
-         _Tools: Pandas, Matplotlib, PyTorch, and Tensorflow_
+         _Tools: Pandas, Scikit-learn, Matplotlib, PyTorch, and Tensorflow_
+
+      - [Sentiment Analysis using CNN on Financial News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-cnn-on-financials-news.ipynb): Sentiment analysis uses CNN on financial news to improve financial decision making and create more effective trading strategies.
+
+         _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
+
+      - [Sentiment Analysis using Support Vector Machine, Naiv Bayes, and Random Forest on Coffee Maker](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-svm-nb-rf-on-coffee-maker.ipynb): Sentiment analysis uses Support Vector Machine, Naive Bayes and Random Forest to predict coffee maker review sentiment to improve their products and services.
+
+         _Tools: Pandas, Scikit-learn, and Matplotlib_
 
 - ### Data Analytics
   
