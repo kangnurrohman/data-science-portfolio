@@ -13,3 +13,5 @@ This repository contains data science projects that I have worked on in academic
 - ### Data Analytics
   
    - __Python__
+  
+If you like my portfolio and intend to share, collaborate or collaborate, please contact [ainurrohman869@gmail.com](mailto:ainurrohman869@gmail.com)
