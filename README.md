@@ -39,5 +39,12 @@ This repository contains data science projects that I have worked on in academic
          _Personal project | December 2021_
 
          _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
+
+   - __Python__
+      - [Uber Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/uber-analytics.ipynb): In this analysis, we will carry out EDA on Uber with the ETL (extract, Transform Load) principle.
+
+         _Personal project | September 2023_
+
+         _Tools: Pandas, Matplotlib, Seaborn, Plotly, and Folium_
   
 If you like my portfolio and intend to chat, cooperate or collaborate, please contact [ainurrohman869@gmail.com](mailto:ainurrohman869@gmail.com)
