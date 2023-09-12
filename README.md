@@ -35,6 +35,12 @@ This repository contains data science projects that I have worked on in academic
   
    - __Python__
 
+      - [Bitcoin Price Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/bitcoin-price-analytics.ipynb): Through this analysis, we aim to gain a more profound understanding of how Bitcoin has evolved and how it may influence its future trajectory.
+
+         _Personal project | September 2023_
+
+         _Tools: Pandas, Numpy, Matplotlib, and Plotly_
+
       - [Uber Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/uber-analytics.ipynb): In this analysis, we will carry out EDA on Uber with the ETL (extract, Transform Load) principle.
 
          _Personal project | September 2023_
