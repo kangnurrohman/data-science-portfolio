@@ -25,7 +25,7 @@ This repository contains data science projects that I have worked on in academic
 
          _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
 
-      - [Sentiment Analysis using Support Vector Machine, Naiv Bayes, and Random Forest on Coffee Maker](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-svm-nb-rf-on-coffee-maker.ipynb): Sentiment analysis uses Support Vector Machine, Naive Bayes and Random Forest to predict coffee maker review sentiment to improve their products and services.
+      - [Sentiment Analysis using Support Vector Machine, Naive Bayes, and Random Forest on Coffee Maker](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-svm-nb-rf-on-coffee-maker.ipynb): Sentiment analysis uses Support Vector Machine, Naive Bayes and Random Forest to predict coffee maker review sentiment to improve their products and services.
 
          _Personal project | January 2023_
 
