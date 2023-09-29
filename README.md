@@ -53,10 +53,20 @@ This repository contains data science projects that I have worked on in academic
 
          _Tools: Pandas, Matplotlib, Seaborn, Plotly, and Folium_
 
-      - [Forecasting using Linear Regression on House Price](https://github.com/kangnurrohman/data-science-portfolio/blob/63ce0ebd9e17af3ed714a9a862bb8de53d24b49f/Data%20Analytics/forecasting-using-linear-regression-on-house-price.ipynb): Conduct exploratory data analysis on house price datasets in Jakarta and Tebet. Classical assumption tests for normality, multicollinearity, heteroscedasticity, and partial tests. Applying the regression model for predicting house prices in Jakarta.
+- Predictions
+   -  Machine Learning
+      - Python
 
-         _Personal project | December 2021_
+         - [Waiter Tips Prediction (EDA + Linear Regression)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/waiter-tips-prediction-eda-linear-regression.ipynb): In this waiter tips prediction analysis, I have undertaken a series of steps to uncover patterns and factors influencing the amount of tips given by customers.
 
-         _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
+            _Personal project | December 2021_
+
+            _Tools: Pandas, Numpy, Plotly, and Sklearn_
+
+          - [House Price Prediction (EDA + Linear Regression)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/house-price-prediction-eda-linear-regression.ipynb): Conduct exploratory data analysis on house price datasets in Jakarta and Tebet. Classical assumption tests for normality, multicollinearity, heteroscedasticity, and partial tests. Applying the regression model for predicting house prices in Jakarta.
+
+            _Personal project | December 2021_
+
+            _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
   
 If you like my portfolio and intend to chat, cooperate or collaborate, please contact [ainurrohman869@gmail.com](mailto:ainurrohman869@gmail.com)
