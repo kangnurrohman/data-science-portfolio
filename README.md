@@ -53,9 +53,9 @@ This repository contains data science projects that I have worked on in academic
 
          _Tools: Pandas, Matplotlib, Seaborn, Plotly, and Folium_
 
-- Predictions
-   -  Machine Learning
-      - Python
+- ### Predictions
+   -  __Machine Learning__
+      - __Python__
 
          - [Waiter Tips Prediction (EDA + Linear Regression)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/waiter-tips-prediction-eda-linear-regression.ipynb): In this waiter tips prediction analysis, I have undertaken a series of steps to uncover patterns and factors influencing the amount of tips given by customers.
 
