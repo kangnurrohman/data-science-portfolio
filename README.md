@@ -5,31 +5,40 @@ This repository contains data science projects that I have worked on in academic
 ## Contents
 
 - ### Natural Language Processing
-   - __Python__
-
-      - [Bidirectional GRU with Attention Mechanism on Sentiment Analysis](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Natural%20Language%20Processing/Sentiment%20Analysis/bi-gru-with-attention-on-sentiment-analysis.ipynb): Deep learning algorithms such as LSTM and GRU have successfully generated context information in sequence learning. For [paper](http://publikasi.dinus.ac.id/index.php/technoc/article/view/7876) (In Indonesian)
-
-         _Thesis project | March 2023_
-
-         _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
+  - Machine Translation
+     - __Python__
+       - [English to Hindi Machine Translation (BIGRU + Att)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Natural%20Language%20Processing/Machine%20Translation/english-to-hindi-machine-translation-bigru-att.ipynb): The model utilizes a Bidirectional GRU (Gated Recurrent Unit) with an integrated Attention Mechanism, optimized using the Adam optimizer, and employs categorical crossentropy as the loss function.
   
-      - [Sentiment Analysis using BERT on Commodity News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-bert-on-commodity-news.ipynb): An experiment to explore the use of sentiment analysis using BERT on news articles related to the commodity gold market. 
+         _Personal experiment | October 2023_
 
-         _Personal project | March 2023_ 
+         _Tools: Pandas, Scikit-learn, Numpy, Matplotlib, and Tensorflow_
+   
+  - Sentiment Analysis
+     - __Python__
 
-         _Tools: Pandas, Scikit-learn, Matplotlib, PyTorch, and Tensorflow_
+        - [Bidirectional GRU with Attention Mechanism on Sentiment Analysis](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Natural%20Language%20Processing/Sentiment%20Analysis/bi-gru-with-attention-on-sentiment-analysis.ipynb): Deep learning algorithms such as LSTM and GRU have successfully generated context information in sequence learning. For [paper](http://publikasi.dinus.ac.id/index.php/technoc/article/view/7876) (In Indonesian)
 
-      - [Sentiment Analysis using CNN on Financial News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-cnn-on-financials-news.ipynb): Sentiment analysis uses CNN on financial news to improve financial decision making and create more effective trading strategies.
+           _Thesis project | March 2023_
 
-         _Personal project | February 2023_
+           _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
+    
+        - [Sentiment Analysis using BERT on Commodity News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-bert-on-commodity-news.ipynb): An experiment to explore the use of sentiment analysis using BERT on news articles related to the commodity gold market. 
 
-         _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
+           _Personal project | March 2023_ 
 
-      - [Sentiment Analysis using Support Vector Machine, Naive Bayes, and Random Forest on Coffee Maker](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-svm-nb-rf-on-coffee-maker.ipynb): Sentiment analysis uses Support Vector Machine, Naive Bayes and Random Forest to predict coffee maker review sentiment to improve their products and services.
+           _Tools: Pandas, Scikit-learn, Matplotlib, PyTorch, and Tensorflow_
 
-         _Personal project | January 2023_
+        - [Sentiment Analysis using CNN on Financial News](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-cnn-on-financials-news.ipynb): Sentiment analysis uses CNN on financial news to improve financial decision making and create more effective trading strategies.
 
-         _Tools: Pandas, Scikit-learn, and Matplotlib_
+           _Personal project | February 2023_
+
+           _Tools: Pandas, Scikit-learn, Matplotlib, and Tensorflow_
+
+        - [Sentiment Analysis using Support Vector Machine, Naive Bayes, and Random Forest on Coffee Maker](https://github.com/kangnurrohman/data-science-portfolio/blob/b8dfb22d4c586dc7057316c4584f5fc14e97ff0a/Natural%20Language%20Processing/Sentiment%20Analysis/sentiment-analysis-using-svm-nb-rf-on-coffee-maker.ipynb): Sentiment analysis uses Support Vector Machine, Naive Bayes and Random Forest to predict coffee maker review sentiment to improve their products and services.
+
+           _Personal project | January 2023_
+
+           _Tools: Pandas, Scikit-learn, and Matplotlib_
 
 - ### Data Analytics
   
