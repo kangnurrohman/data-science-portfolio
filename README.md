@@ -65,6 +65,12 @@ This repository contains data science projects that I have worked on in academic
 - ### Predictions
    -  __Machine Learning__
       - __Python__
+  
+         - [Future Sales Prediction (EDA + 5 Algorithms)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/future-sales-prediction-eda-5-algorithms.ipynb): In the analysis of the "Future Sales Prediction" dataset, we conducted a comprehensive series of data analysis steps to create an accurate prediction model.
+
+            _Personal project | October 2023_
+
+            _Tools: Pandas, Numpy, Plotly, Seaborn, Matplotlib, Sklearn and Statsmodel_
 
          - [Waiter Tips Prediction (EDA + Linear Regression)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/waiter-tips-prediction-eda-linear-regression.ipynb): In this waiter tips prediction analysis, I have undertaken a series of steps to uncover patterns and factors influencing the amount of tips given by customers.
 
