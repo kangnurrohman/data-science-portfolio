@@ -46,7 +46,7 @@ This repository contains data science projects that I have worked on in academic
 
       - [Hotel Booking Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/hotel-booking-analytics.ipynb): This hotel booking analysis constitutes an in-depth investigation of a dataset spanning two years, starting from 2015 to 2017. Through a series of steps, including data preprocessing, descriptive statistics, and examining the distribution of guests from various countries, we aim to unearth valuable insights in the hospitality industry.
 
-         _Personal project | September 2023_
+         _Personal project | October 2023_
 
          _Tools: Pandas, Numpy, Matplotlib, Seaborn, Plotly_
 
