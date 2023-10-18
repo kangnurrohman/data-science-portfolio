@@ -96,4 +96,4 @@ This repository contains data science projects that I have worked on in academic
 
             _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
   
-If you like my portfolio and intend to chat, cooperate or collaborate, please contact [ainurrohman869@gmail.com](mailto:ainurrohman869@gmail.com)
+If you like my portfolio and intend to chat, cooperate or collaborate, please contact [ainurrohman869@gmail.com](mailto:kangnurrohman@gmail.com)
