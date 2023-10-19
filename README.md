@@ -77,6 +77,12 @@ This repository contains data science projects that I have worked on in academic
 - ### Predictions
    -  __Machine Learning__
       - __Python__
+
+         - [Supply Chain Analytics & Modeling (LightGBM & RNN)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Deep%20Learning/supply-chain-analytics-modeling-lightgbm-rnn.ipynb): During the Exploratory Data Analysis phase, we conducted quality control checks, assessed supply chain risks, performed Inventory Optimization Analysis using the Economic Order Quantity (EOQ) method, conducted customer segmentation analysis, and explored lead times optimization.
+
+            _Personal project | October 2023_
+
+            _Tools: Pandas, Numpy, Plotly, Sklearn, lightGBM, and Tensorflow_
   
          - [Future Sales Prediction (EDA + 5 Algorithms)](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Predictions/Machine%20Learning/future-sales-prediction-eda-5-algorithms.ipynb): In the analysis of the "Future Sales Prediction" dataset, we conducted a comprehensive series of data analysis steps to create an accurate prediction model.
 
