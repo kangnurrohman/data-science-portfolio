@@ -52,7 +52,7 @@ This repository contains data science projects that I have worked on in academic
 
       _Personal project | October 2023_
 
-      _Tools: Pandas, SQl alchemy, TextBlob, WordCloud, Matplotlib, emoji, and Plotly_
+      _Tools: Pandas, SQl Alchemy, TextBlob, WordCloud, Matplotlib, Emoji, and Plotly_
 
     - [Covid-19 Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/covid-19-analytics.ipynb): In the analysis of COVID-19 data, the primary focus will be on understanding and monitoring the pandemic situation in various countries. In this context, data related to the total number of cases, deaths, recoveries, and active cases will be collected and presented by country.
 
