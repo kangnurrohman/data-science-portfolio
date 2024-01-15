@@ -48,6 +48,12 @@ This repository contains data science projects that I have worked on in academic
 
   - **Python**
 
+    - [Zomato Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/zomato-analytics.ipynb): In the analysis of Zomato restaurants in India, a comprehensive approach is taken to explore various aspects.
+
+      _Personal project | January 2024_
+
+      _Tools: Pandas, Numpy, NLTK, GeoPy, Matplotlib, and Folium_
+
     - [Stock Price Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/stock-price-analytics.ipynb): In this stock price analysis project, data has been gathered from four prominent companies: Amazon, Apple, Microsoft, and Google, covering a 5-year span from 2013 to 2018. The primary focus lies in understanding the fluctuations in stock prices for these companies based on closing prices.
 
       _Personal project | January 2024_
