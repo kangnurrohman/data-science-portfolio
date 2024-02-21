@@ -48,6 +48,13 @@ This repository contains data science projects that I have worked on in academic
 
   - **Python**
 
+
+    - [Sales Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/sales-analytics.ipynb): Conducting analysis on an online shop in 2019, including: Analysis of the month and city with the highest transactions, best-selling items, and items that are often purchased simultaneously.
+
+      _Personal project | February 2024_
+
+      _Tools: Pandas and Plotly_
+
     - [Zomato Analytics](https://github.com/kangnurrohman/data-science-portfolio/blob/main/Data%20Analytics/zomato-analytics.ipynb): In the analysis of Zomato restaurants in India, a comprehensive approach is taken to explore various aspects.
 
       _Personal project | January 2024_
