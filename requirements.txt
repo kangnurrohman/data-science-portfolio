@@ -1,5 +1,5 @@
-streamlit == 1.31.1
+streamlit
 scikit-learn == 1.2.2
-pandas == 2.2.0
-numpy == 1.26.4 
-matplotlib == 3.8.0
+pandas 
+numpy 
+matplotlib
