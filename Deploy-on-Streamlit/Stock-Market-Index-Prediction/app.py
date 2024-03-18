@@ -21,7 +21,7 @@ lr.fit(x, y)
 
 st.title('Stock Market Index Prediction')
 
-# st.image('assets/images/stockindex.jpeg', width=700)
+st.image('Deploy-on-Streamlit/Stock-Market-Index-Prediction/assets/images/stockindex.jpeg', width=700)
 
 st.subheader('Relationship between Stock Index Price and Economic Growth Rate')
 
