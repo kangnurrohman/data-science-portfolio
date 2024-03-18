@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 nav = st.sidebar.radio("Navigation", ["Home", "Predict", "About"]) 
-df = pd.read_csv('insurance.csv')
+df = pd.read_csv('Deploy-on-Streamlit/Insurance-Premium-Predictor/insurance.csv')
 
 if nav == "Home":
     st.title("Home")
@@ -13,7 +13,7 @@ elif nav == "About":
     st.title("About")
     st.write("Welcome to the about page!")
     st.write("This is a simple web app that predicts the insurance premium of a person based on their")
-    st.image('assets/images/insurance.jpeg', width=500)
+    st.image('Deploy-on-Streamlit/Insurance-Premium-Predictor/assets/images/insurance.jpeg', width=500)
     
 df.replace({'sex':{'male':0,'female':1}}, inplace=True)
 df.replace({'smoker':{'yes':0,'no':1}}, inplace=True)
