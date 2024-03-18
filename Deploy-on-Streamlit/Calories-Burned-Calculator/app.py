@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 
-model = pickle.load(open('model.sav', 'rb'))
+model = pickle.load(open('Deploy-on-Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
 
 st.write("Calories Burned Calculator App")
 
