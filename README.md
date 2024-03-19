@@ -133,4 +133,42 @@ This repository contains data science projects that I have worked on in academic
 
         _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
 
+- To the Moon
+  
+  This folder contains several AI/DS projects that have   been deployed in several instruments, such as stremlit, flask, django, etc.
+
+  - Streamlit
+  
+     Streamlit is a free and open-source framework to rapidly build and share beautiful machine learning and data science web apps. 
+
+     In this project, you can run it in two ways, namely via the link that has been included or run it on your computer (local). Here's how to run it on your computer:
+
+     1. Clone this repository.
+     2. Enter the directory of each `to-the-moon` project. As an example: [Calories Burned Calculator](https://github.com/kangnurrohman/data-science-portfolio/tree/main/To-the-Moon/Streamlit/Calories-Burned-Calculator)
+     3. Run: `streamlit run app.py`. Make sure you have streamlit installed. If not, run `pip install streamlit`.
+   
+    -  [Calories Burned Calculator](https://github.com/kangnurrohman/data-science-portfolio/tree/main/To-the-Moon/Streamlit/Calories-Burned-Calculator). When someone is exercising, they can calculate how many calories they burn by considering: gender, height, weight, length of workout, average heart rate, and body temperature. This application was created using the random forest regression algorithm.
+        
+        link to deploy: https://calories-burned-calculator.streamlit.app/
+  
+        _Experiment | March 2024_
+
+        _Tools: Numpy, Pandas, Streamlit_
+
+    -  [Insurance-Premium-Predictor](https://github.com/kangnurrohman/data-science-portfolio/tree/main/To-the-Moon/Streamlit/Insurance-Premium-Predictor). When someone takes out insurance, they are sometimes confused about how much insurance they are getting. This application was created to predict insurance by considering: Age, gender, BMI, children, smoker or not, and region. The application was created using the Random Forest Regression algorithm.
+  
+        link to deploy: https://insurance-premium-predictor-app.streamlit.app/
+
+        _Experiment | March 2024_
+
+        _Tools: Pandas, Streamlit, Scikit-learn_
+
+    -  [Stock Market Index Prediction](https://github.com/kangnurrohman/data-science-portfolio/tree/main/To-the-Moon/Streamlit/Stock-Market-Index-Prediction). This application is used to predict stock market indices based on economic growth and unemployment rates. The application is created using linear regression.
+
+        link to deploy: https://stock-market-index-prediction.streamlit.app/
+
+        _Experiment | March 2024_
+
+        _Tools: Matplotlib, Pandas, Streamlit, Scikit-learn_
+
 If you like my portfolio and intend to chat, cooperate or collaborate, please contact [kangnurrohman@gmail.com](mailto:kangnurrohman@gmail.com)
