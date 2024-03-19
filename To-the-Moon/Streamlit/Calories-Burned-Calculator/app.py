@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import numpy as np
 
-if os.environ.get("IS_STREAMLIT_SHARING"):
+if "STREAMLIT_SHARE" not in os.environ: 
  model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
 else:
  model = pickle.load(open('model.sav', 'rb'))
