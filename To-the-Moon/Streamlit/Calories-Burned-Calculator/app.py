@@ -5,11 +5,11 @@ import pandas as pd
 import numpy as np
 
 if "STREAMLIT_SHARE_URL" in os.environ:
- # model = pickle.load(open('model.sav', 'rb'))
- model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
-else:
- # model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
  model = pickle.load(open('model.sav', 'rb'))
+ # model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
+else:
+ model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
+ # model = pickle.load(open('model.sav', 'rb'))
 
 st.write("Calories Burned Calculator App")
 
