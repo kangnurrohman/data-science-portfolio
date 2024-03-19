@@ -1,10 +1,10 @@
 import streamlit as st
 import pickle
-import sys
+import os
 import pandas as pd
 import numpy as np
 
-if "streamlit" in sys.modules:
+if "STREAMLIT_SHARE_URL" not in os.environ:
  model = pickle.load(open('model.sav', 'rb'))
 else:
  model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
