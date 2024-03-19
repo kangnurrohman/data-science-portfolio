@@ -3,7 +3,10 @@ import pickle
 import pandas as pd
 import numpy as np
 
-model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
+if st._is_running_with_streamlit:
+ model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
+else:
+ model = pickle.load(open('model.sav', 'rb'))
 
 st.write("Calories Burned Calculator App")
 
