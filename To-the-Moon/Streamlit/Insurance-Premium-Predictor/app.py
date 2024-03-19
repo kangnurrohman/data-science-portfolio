@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 nav = st.sidebar.radio("Navigation", ["Home", "Predict", "About"]) 
-df = pd.read_csv('Deploy-on-Streamlit/Insurance-Premium-Predictor/insurance.csv')
+df = pd.read_csv('To-the-Moon/Streamlit/Insurance-Premium-Predictor/insurance.csv')
 
 if nav == "Home":
     st.title("Home")
