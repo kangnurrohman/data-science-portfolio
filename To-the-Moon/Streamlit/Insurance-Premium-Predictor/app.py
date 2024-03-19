@@ -1,9 +1,13 @@
 import streamlit as st
 import pandas as pd
+import platform
 from sklearn.ensemble import RandomForestRegressor
 
-nav = st.sidebar.radio("Navigation", ["Home", "Predict", "About"]) 
-df = pd.read_csv('To-the-Moon/Streamlit/Insurance-Premium-Predictor/insurance.csv')
+nav = st.sidebar.radio("Navigation", ["Home", "Predict", "About"])
+if platform.processor() != '':
+ df = pd.read_csv('insurance.csv')
+else:
+ df = pd.read_csv('To-the-Moon/Streamlit/Insurance-Premium-Predictor/insurance.csv')
 
 if nav == "Home":
     st.title("Home")
