@@ -133,11 +133,11 @@ This repository contains data science projects that I have worked on in academic
 
         _Tools: Pandas, Matplotlib, Scikit-learn, and Statsmodel_
 
-- To the Moon
+- ### To the Moon
   
   This folder contains several AI/DS projects that have   been deployed in several instruments, such as stremlit, flask, django, etc.
 
-  - Streamlit
+  - **Streamlit**
   
      Streamlit is a free and open-source framework to rapidly build and share beautiful machine learning and data science web apps. 
 
