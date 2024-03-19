@@ -135,7 +135,7 @@ This repository contains data science projects that I have worked on in academic
 
 - ### To the Moon
   
-  This folder contains several AI/DS projects that have   been deployed in several instruments, such as stremlit, flask, django, etc.
+  This folder contains several AI/DS projects that have   been deployed in several instruments, such as streamlit, flask, django, etc.
 
   - **Streamlit**
   
