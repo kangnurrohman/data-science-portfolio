@@ -7,7 +7,7 @@ import numpy as np
 if os.environ.get("IS_STREAMLIT_SHARING"):
  model = pickle.load(open('model.sav', 'rb'))
  # model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
-else:
+elif os.environ.get("LOCAL_DEV"):
  model = pickle.load(open('To-the-Moon/Streamlit/Calories-Burned-Calculator/model.sav', 'rb'))
  # model = pickle.load(open('model.sav', 'rb'))
 
