@@ -2,5 +2,5 @@ streamlit
 scikit-learn==1.2.2
 pandas
 numpy
-cython --install-option="--no-cython-compile"
+cython
 compas
