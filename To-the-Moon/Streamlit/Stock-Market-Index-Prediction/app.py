@@ -33,7 +33,7 @@ plt.xlabel('Economic Growth Rate')
 plt.ylabel('Stock Index Price')
 plt.scatter(df['EconomicGrowth_Rate'], df['Stock_Index_Price'], color='red')
 plt.tight_layout()
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 st.pyplot()
 
 st.subheader('Relationship between Stock Index Price and Unemployment Rate')
